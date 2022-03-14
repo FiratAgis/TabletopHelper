@@ -8,3 +8,5 @@ This one allows me to roll random items while running PTA (Pokemon Tabletop Adve
 This one includes my random encounter tables for my current PTA game, if you are one of my players, you are not allowed to look into this.
 ## helperWarHammer.py
 This creates starter characters for Warhammer Fantasy 2nd Edition. The code is very old, this is only here for completeness sake.
+## helperWarfare.py
+My implementation of unit creation in MCDM's Kingdoms & Warfare including my house rules for creating a unit from scratch.
